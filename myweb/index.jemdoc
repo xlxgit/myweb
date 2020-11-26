@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Liangxu Xie 
+
+~~~
+{}{img_left}{myweb/bio.png}{alt text}{131}{160}\n
+PhD, Associate Professor \n 
+Jiangsu University of Technology \n
+ZhongWu Road 1801 \n
+Changzhou, Jiangsu 213001 \n
+QQ: \865397865 \n
+E-mail: /xieliangxu/ \[@\] jsut \[DOT\] edu \[DOT\] cn
+~~~
+
+== About me
+I received the B.Sc. degree in Chemistry from Shandong Universityi ([https://www.sdu.edu.cn/ SDU]) in 2011 and PhD degree from the University of Hong Kong ([https://www.hku.hk HKU]) in 2016. During 2017-2018, I worked in Hong Kong University of Science and Technology ([https://www.ust.hk/ HKUST]) under the supervision of 
+ [http://compbio.ust.hk/public_html/pmwiki-2.2.8/pmwiki.php?n=People.XuhuiHuang Prof. Xuhui Huang].  
+
+== Research
+My research interests include 
+- Multi-scale molecular modeling  
+- Machine Learning
+- Computer aided drug discovery
+- Bioinformatics
+
+[research.html Find out more].
+=== Recent Publications 
+. *Liangxu Xie*, Huimin Cheng, Dong Fang, Zhe-Ning Chen\*, Mingjun Yang\*; Enhanced QM/MM Sampling for Free Energy Calculation of Chemical Reactions: A Case Study of Double Proton Transfer, J. Chem. Phys. 2019, 150, 044111. \[[https://aip.scitation.org/doi/abs/10.1063/1.5072779?journalCode=jcp pdf]\]
+. *Liangxu Xie*, Mingjun Yang\*, Zhe-Ning Chen\*, Understanding the Entropic Effect in Chorismate Mutase Reaction Catalyzed by Isochorismate-Pyruvate Lyase from Pseudomonas aeruginosa (PchB), Catal. Sci. Technol. 2019, 9, 957-965. \[[https://pubs.rsc.org/en/content/articlelanding/2019/cy/c8cy02123f pdf]\]
+. *Liangxu Xie*, Kwong-Yu Chan\*, Nick Quirke; Poly(ethylene glycol) (PEG) in a Polyethylene (PE) Framework: A Simple Model for Simulation Studies of a Soluble Polymer in an Open Framework. Langmuir; 2017, 33, 11746-11753. \[[https://pubs.acs.org/doi/10.1021/acs.langmuir.7b02253 pdf]\]
+. *Liangxu Xie*, Lin Shen, Zhe-Ning Chen\*, Mingjun Yang\*; Efficient Free Energy Calculations by Combining Two Complementary Tempering Sampling Methods. J. Chem. Phys. 2016, 146, 024103. \[[https://aip.scitation.org/doi/10.1063/1.4973607 pdf]\]
+
+[publication.html Full list of publications]. \n
+
+=== Teaching
+AI in Physical Chemistry \n
+ 
+[cv.pdf A brief cv].
+
